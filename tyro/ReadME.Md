@@ -29,3 +29,7 @@
 - Couldn't find a proper way to extract the eligibility criteria through the API call itself,
 manually extracted in the javascript code.
 - Some minor syntax and import errors when integrating libraries such as supertest and chai
+
+#### Usage
+Within the api-tests directory run `npm test`
+** Note you may need to install dependencies first with `npm install`
