@@ -24,6 +24,9 @@
 - supertest
 - chai
 - express (experimental)
+- async
+- babel
+- mocha
 
 #### Issues
 - Couldn't find a proper way to extract the eligibility criteria through the API call itself,
